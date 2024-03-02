@@ -1,0 +1,2 @@
+# The-Tip-Calculator-program-project-calculates-the-total-cost-of-a-meal-when-a-fixed-tip-is-added
+In this project I'm going to develop a software application named "Tip Calculator Program Project". The food and beverage director, which also serves as the Asanka Hotel's finance officer, has asked for a program that determines how much a meal will cost total when a set tip is applied. Therefore, I wanted to use Python and Jupyter Notebook tech
