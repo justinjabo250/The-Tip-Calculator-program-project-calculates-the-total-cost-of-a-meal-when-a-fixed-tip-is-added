@@ -7,6 +7,9 @@
 ### I've included all of the business requirements here so that we can create software that will meet the intended business needs and be viewed favorably by managers and stakeholders who will be using the data to extract insightful information and patterns from it.  
 
 
+----------------------------------------
+
+
 
 **The program should ask the user to enter the charge for the food.**
 
@@ -17,6 +20,7 @@
 **Based on this data, your program should generate script that meets the requirements.**
 
 
+----------------------------------------
 
 
 **An example of how the software we will be building is run is shown below.**
