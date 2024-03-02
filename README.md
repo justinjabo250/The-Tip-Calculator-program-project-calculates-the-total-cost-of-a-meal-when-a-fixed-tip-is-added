@@ -1,10 +1,10 @@
 # The-Tip-Calculator-program-project-calculates-the-total-cost-of-a-meal-when-a-fixed-tip-is-added
 
 
-##### In this project I'm going to develop a software application named "Tip Calculator Program Project". The food and beverage director, which also serves as the Asanka Hotel's finance officer, has asked for a program that determines how much a meal will cost total when a set tip is applied. Therefore, I wanted to use Python and Jupyter Notebook technologies to develop a useful and constructive software program. As a result, this software will assist the business in organizing and using carefully estimated and well-calculated costs as intended, which will aid in the audit process and produce favorable results and potential decisions.
+### In this project I'm going to develop a software application named "Tip Calculator Program Project". The food and beverage director, which also serves as the Asanka Hotel's finance officer, has asked for a program that determines how much a meal will cost total when a set tip is applied. Therefore, I wanted to use Python and Jupyter Notebook technologies to develop a useful and constructive software program. As a result, this software will assist the business in organizing and using carefully estimated and well-calculated costs as intended, which will aid in the audit process and produce favorable results and potential decisions.
 
 
-##### I've included all of the business requirements here so that we can create software that will meet the intended business needs and be viewed favorably by managers and stakeholders who will be using the data to extract insightful information and patterns from it.  
+### I've included all of the business requirements here so that we can create software that will meet the intended business needs and be viewed favorably by managers and stakeholders who will be using the data to extract insightful information and patterns from it.  
 
 
 
